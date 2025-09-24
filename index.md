@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+GitPage: Welcome to Jacob Knickerbocker's Blog!
 ---
